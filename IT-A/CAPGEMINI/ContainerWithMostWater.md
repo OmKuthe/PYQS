@@ -1,7 +1,7 @@
 # Container With Most Water (Medium)
 
 
-## Problem Statement:Find two lines in an array that trap the most water.
+## Problem Statement : Find two lines in an array that trap the most water.
 
 ## [LeetCode Problem](https://leetcode.com/problems/container-with-most-water/description/)
 
