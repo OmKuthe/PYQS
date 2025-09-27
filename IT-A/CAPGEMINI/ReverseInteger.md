@@ -1,7 +1,7 @@
 # Reverse Integer (Medium)
 
 
-## Problem Statement: Reverse integer digits and return reversed number, 0 if overflow.
+## Problem Statement : Reverse integer digits and return reversed number, 0 if overflow.
 
 ## [LeetCode Problem](https://leetcode.com/problems/reverse-integer/description/)
 
