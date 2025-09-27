@@ -1,7 +1,7 @@
 # Reverse Integer (Medium)
 
 
-## Problem Statement:Check if integer is palindrome.
+## Problem Statement : Check if integer is palindrome.
 
 ## [LeetCode Problem](https://leetcode.com/problems/palindrome-number/description/)
 
