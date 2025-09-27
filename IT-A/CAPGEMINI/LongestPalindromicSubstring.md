@@ -1,7 +1,7 @@
 # Longest Palindromic Substring (Medium)
 
 
-## Problem Statement: Return the longest palindromic substring in a string.
+## Problem Statement : Return the longest palindromic substring in a string.
 
 ## [LeetCode Problem](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
