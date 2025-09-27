@@ -1,7 +1,7 @@
 # Median of Two Sorted Arrays (Hard)
 
 
-## Problem Statement : Given two sorted arrays, nums1 and nums2, find the median of the two sorted arrays.
+## Problem Statement :Given two sorted arrays, nums1 and nums2, find the median of the two sorted arrays.
 
 ## [LeetCode Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
